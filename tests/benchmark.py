@@ -29,3 +29,5 @@ def async_10000():
 if __name__ == '__main__':
     sync_10000()
     async_10000()
+    sync_10000()
+    async_10000()
